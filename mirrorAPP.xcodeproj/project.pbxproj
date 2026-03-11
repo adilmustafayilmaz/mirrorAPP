@@ -248,7 +248,7 @@
 		11A1AEF22F3D300D00D771E5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = mirrorAPP;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = mirrorAPP/mirrorAPP.entitlements;
 				CODE_SIGN_STYLE = Automatic;
@@ -284,7 +284,7 @@
 		11A1AEF32F3D300D00D771E5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = mirrorAPP;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = mirrorAPP/mirrorAPP.entitlements;
 				CODE_SIGN_STYLE = Automatic;
